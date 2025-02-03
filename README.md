@@ -1,6 +1,10 @@
 # Debunk of DeepSeek R1 bouncing ball fail
 
-The prompt :
+The first prompt :
+
+Write a Python program that shows a ball bouncing inside a spinning hexagon. The ball should be affected by gravity and friction, and it must bounce off the rotating walls realistically.
+
+The second prompt, in the same conversation (simply add " The ball must stay in the spinning hexagon.") :
 
 Write a Python program that shows a ball bouncing inside a spinning hexagon. The ball should be affected by gravity and friction, and it must bounce off the rotating walls realistically. The ball must stay in the spinning hexagon.
 
