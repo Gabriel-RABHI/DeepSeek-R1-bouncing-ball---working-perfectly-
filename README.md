@@ -4,7 +4,7 @@ The prompt :
 
 Write a Python program that shows a ball bouncing inside a spinning hexagon. The ball should be affected by gravity and friction, and it must bounce off the rotating walls realistically. The ball must stay in the spinning hexagon.
 
-#Result
+## Result
 
 Here's a Python program using Pygame that demonstrates a ball bouncing inside a spinning hexagon with gravity, friction, and realistic collisions:
 
